@@ -1,3 +1,3 @@
 Contact: mailto:editor@tsvetochnyj-butik-4dd721.vercel.app
-Expires: 2027-07-28T15:27:37.854Z
+Expires: 2027-07-28T15:30:30.125Z
 Preferred-Languages: ru
