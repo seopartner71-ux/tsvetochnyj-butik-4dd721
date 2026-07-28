@@ -4,11 +4,11 @@
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Comments for Цветочный бутик</title>
+    <title>Comments for Aroma Cvetov</title>
     <atom:link href="https://tsvetochnyj-butik-4dd721.vercel.app/comments/feed/" rel="self" type="application/rss+xml" />
     <link>https://tsvetochnyj-butik-4dd721.vercel.app/</link>
     <description>Latest comments</description>
-    <lastBuildDate>Tue, 28 Jul 2026 15:25:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 15:27:37 GMT</lastBuildDate>
     <language>ru-RU</language>
   </channel>
 </rss>

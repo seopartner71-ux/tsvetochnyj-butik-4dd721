@@ -1,11 +1,11 @@
-# Цветочный бутик
-> Мы — команда энтузиастов, увлеченных миром цветов. Наш сайт — это источник вдохновения и знаний для всех, кто ценит красоту и аромат живых растений. Мы стремимся делиться полезной информацией о выборе, уходе и символике цветов, чтобы каждый мог найти идеальный букет или создать с
+# Aroma Cvetov
+> My sobirajem luchshie bukety iz svezhix cvetov, chtoby vy mogli poradovat svoix blizkix. Kazhdyj buket - eto proizvedenie iskusstva, sozdannoe s ljubovju i vnimaniem k detalyam. My uchityvaem vse vashi pozhelanija.
 
 ## Pages
-- [Главная](https://tsvetochnyj-butik-4dd721.vercel.app/): главная страница — Цветочный бутик
+- [Главная](https://tsvetochnyj-butik-4dd721.vercel.app/): главная страница — Aroma Cvetov
 - [О нас](https://tsvetochnyj-butik-4dd721.vercel.app/about.html): информация о компании и команде
 - [Контакты](https://tsvetochnyj-butik-4dd721.vercel.app/contacts.html): контактные данные и адрес
-- [Блог](https://tsvetochnyj-butik-4dd721.vercel.app/blog/): статьи по теме «Мы — команда энтузиастов, увлеченных миром цветов»
+- [Блог](https://tsvetochnyj-butik-4dd721.vercel.app/blog/): статьи по теме «My sobirajem luchshie bukety iz svezhix cvetov, chtoby vy»
 - [vacancies](https://tsvetochnyj-butik-4dd721.vercel.app/vacancies.html)
 - [portfolio](https://tsvetochnyj-butik-4dd721.vercel.app/portfolio.html)
 - [reviews](https://tsvetochnyj-butik-4dd721.vercel.app/reviews.html)
@@ -23,5 +23,5 @@
 - [sem prakticheskikh rekomendatsij po vyboru i ukhodu za tsvetami](https://tsvetochnyj-butik-4dd721.vercel.app/posts/sem-prakticheskikh-rekomendatsij-po-vyboru-i-ukhodu-za-tsvetami.html)
 
 ## About
-Цветочный мир работает с 2018. Специализация: Мы — команда энтузиастов, увлеченных миром цветов.
+Цветочный мир работает с 2018. Специализация: My sobirajem luchshie bukety iz svezhix cvetov, chtoby vy.
 Регион: ул. Большая Дмитровка, д. 20, Москва, 107031.
