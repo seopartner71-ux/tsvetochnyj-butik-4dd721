@@ -13,19 +13,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tsvetochnyj-butik-4dd721.vercel.app/services.html</loc>
-
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/contacts.html</loc>
-
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://tsvetochnyj-butik-4dd721.vercel.app/faq.html</loc>
 
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -98,35 +86,30 @@
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/vybor-tsvetov-v-2026-godu-aktualnye-kriterii-i-tseny.html</loc>
-    <lastmod>2026-05-20</lastmod>
 
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/sem-shagov-k-idealnomu-buketu-vybor-i-ukhod.html</loc>
-    <lastmod>2026-04-29</lastmod>
 
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/vybor-tsvetov-klyuchevye-aspekty-i-rasprostranennye-oshibki.html</loc>
-    <lastmod>2026-04-29</lastmod>
 
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/vybor-tsvetov-klyuchevye-aspekty-i-rasprostranennye-oshibki-2.html</loc>
-    <lastmod>2026-05-09</lastmod>
 
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/sem-prakticheskikh-rekomendatsij-po-vyboru-i-ukhodu-za-tsvetami.html</loc>
-    <lastmod>2026-04-15</lastmod>
 
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
