@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tsvetochnyj-butik-4dd721.vercel.app/sitemap.xml
