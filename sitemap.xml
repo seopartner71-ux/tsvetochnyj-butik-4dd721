@@ -2,116 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/</loc>
-
-    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/about.html</loc>
-
-    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/contacts.html</loc>
-
-    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/privacy.html</loc>
-
-    <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/terms.html</loc>
-
-    <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/blog/</loc>
-
-    <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/vacancies.html</loc>
-
-    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/portfolio.html</loc>
-
-    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/reviews.html</loc>
-
-    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/faq.html</loc>
-
-    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/pricing.html</loc>
-
-    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/guarantees.html</loc>
-
-    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/delivery.html</loc>
-
-    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/promo.html</loc>
-
-    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/kak-sochetat-tsvety-po-tsvetu-i-forme-rukovodstvo-ot-florista.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/komnatnye-rasteniya-kotorye-tsvetut-kruglyj-god-moj-opyt-i-prakticheskie-sovety.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/buket-na-svadbu-idei-i-sovety-dlya-idealnogo-vybora.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/kak-vybrat-tsvety-na-den-rozhdeniya-moj-vzglyad-na-idealnyj-buket.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/sezonnye-tsvety-kakie-rasteniya-tsvetut-v-raznoe-vremya-goda.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/kakie-tsvety-podarit-muzhchine-polnyj-gid-po-vyboru-i-etiketu.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/kakie-tsvety-podarit-zhenshchine-gid-po-vyboru-i-smyslu.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/kak-prodlit-zhizn-srezannym-tsvetam-prakticheskij-podkhod.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/znachenie-tsvetov-chto-simvoliziruyut-raznye-rasteniya.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/kak-vybrat-buket-tsvetov-dlya-lyubogo-povoda.html</loc>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/vybor-tsvetov-v-2026-godu-aktualnye-kriterii-i-tseny.html</loc>
-
-    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/sem-shagov-k-idealnomu-buketu-vybor-i-ukhod.html</loc>
-
-    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/vybor-tsvetov-klyuchevye-aspekty-i-rasprostranennye-oshibki.html</loc>
-
-    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/vybor-tsvetov-klyuchevye-aspekty-i-rasprostranennye-oshibki-2.html</loc>
-
-    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tsvetochnyj-butik-4dd721.vercel.app/posts/sem-prakticheskikh-rekomendatsij-po-vyboru-i-ukhodu-za-tsvetami.html</loc>
-
-    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 </urlset>
